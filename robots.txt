@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tigarnma.github.io/sitemap.html.gz
+Sitemap: https://tigarnma.github.io/app/sitemap.html.gz
+Sitemap: https://tigarnma.github.io/assets/sitemap.html.gz
+Sitemap: https://tigarnma.github.io/css/sitemap.html.gz
+Sitemap: https://tigarnma.github.io/includes/sitemap.html.gz
+Sitemap: https://tigarnma.github.io/item/sitemap.html.gz
+Sitemap: https://tigarnma.github.io/src/sitemap.html.gz
